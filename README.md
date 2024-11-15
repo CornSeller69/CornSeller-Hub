@@ -1,2 +1,3 @@
-# CornSeller-Hub
-Collection of all my projects in one. Because why not? Also teasers for incoming projects that will be made in the "near" future.
+# CornSeller Hub
+
+This README.md file will *probably* have something cool and usable in it around nearest future.............maybe...
